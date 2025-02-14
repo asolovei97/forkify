@@ -11,6 +11,8 @@ import addRecipeView from './views/addRecipeView';
 import { MODAL_CLOSE_SECONDS } from './config';
 import { state } from './model.js';
 
+import {icons} from '../img/icons.svg'
+
 // if (module.hot) {
 // 	module.hot.accept();
 // }
